@@ -1,0 +1,7 @@
+
+https://teachablemachine.withgoogle.com/models/KiTEaqKOb/
+
+
+classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/clLi2bMWF/model.json',modelLoaded);
+
+https://teachablemachine.withgoogle.com/models/clLi2bMWF/
